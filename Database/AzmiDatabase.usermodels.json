@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "65925e6ba2c7efdae190e1fe"
+  },
+  "name": "amit yadav",
+  "username": "amit",
+  "email": "amit789@gmail.com",
+  "password": "$2a$16$RwOiXmEdBZud2ikd3aw8/ue2.VpewEGU1lUoKROUDfUiS8G1M0tE6",
+  "profilepicture": "some.jpg",
+  "location": "niazamabad,azamgarh",
+  "role": {
+    "$role": "0"
+  },
+  "__v": 0
+}
+]
